@@ -1,3 +1,11 @@
+Made for CUHSD Hackathon IV <strong>in just under 8 hours.</strong>
+
+## Contributors: 
+- Daniel C.
+- Shine C.
+- Bhargav E.
+- Prashant K.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
